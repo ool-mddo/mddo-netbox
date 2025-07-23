@@ -1,7 +1,7 @@
 ```bash
 git clone -b release https://github.com/netbox-community/netbox-docker.git
 cd netbox-docker
-git checkout 3.1.1
+git checkout 3.3.0
 ```
 
 demo/layer1_topololgy/netbox-docker ディレクトリ内に、以下のように docker-compose.override.yml を作成します。(docker-compose-override.yml.example をコピーして編集)
